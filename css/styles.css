@@ -1,5 +1,5 @@
 img {
-  width: 30%;
+  width: 20%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -27,4 +27,8 @@ h1.about {
 }
 h2.about {
   color:white;
+}
+.index-container {
+  background-color:khaki;
+  font-family:'Courier New', Courier, monospace
 }
