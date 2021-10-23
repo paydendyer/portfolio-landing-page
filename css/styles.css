@@ -1,3 +1,4 @@
+
 img {
   width: 20%;
   display: block;
@@ -20,10 +21,14 @@ div.links {
 }
 .about-container {
   background-color: cadetblue;
-  font-family:'Courier New', Courier, monospace
+  font-family:'Courier New', Courier, monospace;
+  padding: 5em;
+  width: 800px;
+  margin: auto;
 }
 h1.about {
   color: white;
+  border-style: dashed;
 }
 h2.about {
   color:white;
@@ -31,4 +36,10 @@ h2.about {
 .index-container {
   background-color:khaki;
   font-family:'Courier New', Courier, monospace
+}
+.sections {
+  padding: 50px;
+  width: 300px;
+  margin: 20px;
+  border: 15px solid green;
 }
