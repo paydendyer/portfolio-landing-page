@@ -15,3 +15,6 @@ div.links {
   position: absolute;
   left: 0px;
 }
+.nav-container {
+  padding: 2em;
+}
