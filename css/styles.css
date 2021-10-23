@@ -18,3 +18,13 @@ div.links {
 .nav-container {
   padding: 2em;
 }
+.about-container {
+  background-color: cadetblue;
+  font-family:'Courier New', Courier, monospace
+}
+h1.about {
+  color: white;
+}
+h2.about {
+  color:white;
+}
