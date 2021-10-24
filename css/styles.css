@@ -1,9 +1,12 @@
-
+html {
+  overflow: hidden;
+}
 img {
   width: 20%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  float:none;
 }
 body {
   margin: 0;
@@ -17,18 +20,22 @@ div.links {
   left: 0px;
 }
 .nav-container {
-  padding: 2em;
+  padding: 1em;
 }
 .about-container {
   background-color: cadetblue;
   font-family:'Courier New', Courier, monospace;
   padding: 5em;
   width: 800px;
-  margin: auto;
+  margin:  0 auto;
 }
 h1.about {
   color: white;
-  border-style: dashed;
+  border: 15px solid white;
+  margin: 0 auto;
+  width: 300px;
+  text-align: center;
+  height: 70px;
 }
 h2.about {
   color:white;
@@ -38,8 +45,9 @@ h2.about {
   font-family:'Courier New', Courier, monospace
 }
 .sections {
-  padding: 50px;
+  padding: 25px;
   width: 300px;
   margin: 20px;
-  border: 15px solid green;
+  border: 15px solid white;
+  height: 230px;
 }
