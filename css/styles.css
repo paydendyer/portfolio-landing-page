@@ -1,21 +1,14 @@
 
 img {
-  width: 20%;
+  width: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  float:none;
 }
 body {
   margin: 0;
   padding: 0;
-}
-h1 {
-  text-align: center;
-}
-div.links {
-  position: absolute;
-  left: 0px;
+  font-family: 'Courier New', Courier, monospace;
 }
 .nav-container {
   padding: 2em;
@@ -24,26 +17,33 @@ div.links {
   background-color: cadetblue;
   font-family:'Courier New', Courier, monospace;
   padding: 5em;
-  width: 800px;
   margin: auto;
 }
-h1.about {
+h1 {
   color: black;
   border: 15px solid white;
   text-align: center;
   width: 300px;
   margin: 0 auto;
+  text-align: center;
 }
 h2.about {
   color:white;
-}
-.index-container {
-  background-color:khaki;
-  font-family:'Courier New', Courier, monospace
 }
 .sections {
   padding: 15px;
   width: 300px;
   margin: 20px;
   border: 15px solid white;
+}
+.name {
+  padding: 20px;
+  align-content: center;
+  background-color: gray;  
+  font-family:'Courier New', Courier, monospace;
+}
+.links {
+  background-color:gold;
+  padding: 20px;
+  font-family:'Courier New', Courier, monospace;
 }
