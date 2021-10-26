@@ -13,7 +13,7 @@ Website to display links to my coding projects
 This is a website meant to host my future portfolio projects while I learn to code. I used HTML, CSS, and Bootstrap.
 
 ## Setup Instructions
-You can view my portfolio page at: https://paydendyer.github.io/portfolio-landing-page/
+After cloning the repository, open index.html in your browser
 
 ## Known Bugs:
 None
